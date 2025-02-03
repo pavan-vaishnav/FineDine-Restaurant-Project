@@ -33,7 +33,7 @@
   background-image: url("src/assets/bg.png");
   width: 40%;
   height: 700px;
-  /* background-color: rgba(0, 0, 0, 0); */
+  background-color: rgba(0, 0, 0, 0);
 }
 .knife{
   position: relative;
