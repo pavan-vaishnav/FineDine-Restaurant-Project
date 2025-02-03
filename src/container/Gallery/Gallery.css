@@ -1,0 +1,54 @@
+#gallary{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 2%;
+  font-family: serif;
+  margin-bottom: 20%;
+  flex-shrink:2;
+}
+@media (max-width:1000px) {
+  #gallary{
+    display: flex;
+    flex-direction: column;
+  }
+}
+#gallary-heading1{
+  margin-bottom: 0%;
+}
+.gallary-div1{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#gallary-heading2{
+  color: goldenrod;
+  font-size: 3em;
+}
+#gallary-text{
+  color: grey;
+  font-size: 1.2em;
+  margin: 5%;
+}
+.gallary-btn{
+  width: 30%;
+  height: 40px;
+  font-weight: 700;
+  background-color: antiquewhite;
+  color: black;
+  margin-top: 10%;
+}
+.gallary-btn:hover{
+  background-color: rgb(206, 178, 141);
+}
+#calousel{
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
+.gallary-img{
+  width: 50%;
+  height: 400px;
+}
+.slideshowdiv{
+  width: 40%;
+  height: 300px;
+}

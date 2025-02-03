@@ -1,0 +1,62 @@
+#sectionchef{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-image: url("src\assets\bg.png");
+  background-color: none;
+  font-family: serif;
+  margin-bottom: 10%;
+}
+#chef-img-div, #chef-text-div{
+  width: 50%;
+  margin: 2%;
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: none;
+}
+
+#chef-img{
+  width: 80%;
+  height: 100%;
+  margin: 5%;
+}
+#chef-word{
+  font-family: serif;
+}
+#spoon-chef{
+  position: relative;
+  bottom: 25%;
+}
+#chef-slogan{
+  font-size: 3.2rem;
+  color: goldenrod;
+  margin-bottom: 4%;
+}
+#chef-qoute{
+  color: white;
+  width: 10%;
+  background-color: none;
+  display: inline-block;
+  margin-right: 2%;
+}
+#chef-lorem{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.qoute-text{
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 1.5;
+  letter-spacing: 2px;
+}
+#kevin{
+  color: goldenrod;
+  font-size: 1em;
+}
+#sign{
+  height: 90%;
+  margin-top: 5%;
+}

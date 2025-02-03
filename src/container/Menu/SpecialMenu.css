@@ -1,0 +1,122 @@
+#specialmenu{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: serif;
+  margin-bottom: 10%;
+}
+#h3, #h1{
+text-align: center;
+}
+#h3{
+  font-size: x-large;
+}
+#h1{
+  font-size: 3.5rem;
+  color: goldenrod;
+}
+#menuheader{
+  font-size: 3rem;
+  text-align: center;
+}
+#spoon{
+  position: relative;
+  left: 48%;
+}
+#subdiv{
+  background-color: rgb(0, 0, 0);
+  width: 98%;
+  display: flex;
+  flex-direction: row;
+}
+#menu{
+  display: flex;
+  justify-content: space-between;
+}
+
+#menuitem1{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  right: 0%;
+  padding: 2%;
+}
+#menuitem2{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 2%;
+}
+#menubottle{
+  width: 100%;
+  height: 100%;
+  margin: 5%;
+  display: flex;
+  justify-content: center;
+}
+#know-more-btn{
+  display: flex;
+  justify-content: center;
+}
+#veiwmorebtn{
+  background-color: #f5e1b3;
+  color: black;
+  width: 10%;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 50px;
+  transition: 0.3s ease-in-out;
+}
+#veiwmorebtn:hover{
+  background-color: rgb(206, 178, 141);
+}
+#wine-title{
+  color: goldenrod;
+  font-size: larger;
+  margin-top: 0%;
+}
+.line-price{
+  display: flex;
+  flex-direction: row;
+}
+.price{
+  position: relative;
+  left: 200%;
+}
+.wine-item{
+  display: flex;
+  margin: 2%;
+  justify-content: space-between;
+}
+.cocktail-item{
+  display: flex;
+  margin: 12%;
+  justify-content: space-between;
+}
+.wine-tag{
+  position: relative;
+  bottom: 40%;
+  left: 0%;
+  margin: 1%;
+}
+.cocktail-tag{
+  position: relative;
+  bottom: 50px;
+  left: 10%;
+}
+#cocktail-title{
+  color: goldenrod;
+  font-size: larger;
+  margin-top: 0%;
+  margin-bottom: 2%;
+  right: 15px;
+}
+.menu-container{
+  margin: 10%;
+  margin-top: 12%;
+}

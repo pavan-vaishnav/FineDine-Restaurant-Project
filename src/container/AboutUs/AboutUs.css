@@ -1,0 +1,106 @@
+#aboutus{
+  background-image: url("/src/assets/bg.png");
+  /* background-image: url("src\assets\G.png"); */
+  background-color: rgba(0, 0, 0, 0);
+}
+#maindiv{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 800px;
+  margin: 5%;
+  background-image: url("src\assets\G.png");
+  background-color: rgba(0, 0, 0, 0);
+}
+.spoon{
+  width: 50px;
+}
+#divforknife{
+  background-color: rgba(240, 248, 255, 0);
+}
+#Gimg{
+  position: relative;
+  color: white;
+  width: 170%;
+  right: 40%;
+  bottom: 40em;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0);
+  /* background-image: url("src/assets/bg.png");
+  background-color: rgba(0, 0, 0, 0); */
+}
+#div2{
+  background-image: url("src/assets/bg.png");
+  width: 40%;
+  height: 700px;
+  /* background-color: rgba(0, 0, 0, 0); */
+}
+.knife{
+  position: relative;
+  bottom:0em;
+  left: 30%;
+  width: 35%;
+  z-index: 2;
+  background-color: rgba(0, 0, 0, 0);
+  height: 700px;
+}
+
+.about-us-container {/* Dark background */
+  color: #e8d5a6; /* Gold text */
+  background-color: rgba(0, 0, 0, 0);
+  text-align: center;
+  padding: 50px;
+  font-family: "serif";
+  position: relative;
+  max-width: 600px;
+  margin: auto;
+  z-index: 2;
+}
+
+.about-title {
+  font-size: 48px;
+  font-weight: bold;
+  position: relative;
+  background-color: #bcbcbc00;
+  background-color: rgba(0, 0, 0, 0);
+  color: gold;
+  bottom: 50px;
+}
+
+.spoon-img {
+  width: 50px;
+  position: absolute;
+  right: 170px;
+  top: 100px;
+  background-color: #12121200;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.about-text {
+  font-size: 1rem;
+  line-height: 2;
+  color: #bcbcbc; /* Light gray */
+  margin-top: 20px;
+  max-width: 500px;
+  text-align:start ;
+  margin: 50px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.about-text2{
+  text-align: end;
+}
+
+.about-button {
+  background-color: #f5e1b3;
+  color: black;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin: 50px;
+  transition: 0.3s ease-in-out;
+}
+
+.about-button:hover {
+  background-color: #c9a862;
+}

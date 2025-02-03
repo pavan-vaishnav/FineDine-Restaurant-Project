@@ -1,0 +1,56 @@
+#contact{
+  background-image: url("src/assets/bg.png");
+  background-color: rgba(0, 0, 0, 0);
+  display: flex;
+  justify-content: center;
+  padding:5%;
+  font-family: serif;
+}
+.contact-main{
+  background-color: rgba(0, 0, 0, 0);
+}
+#contact-main1, #contact-main2{
+  width: 50%;
+}
+#heading{
+  background-color: rgba(0, 0, 0, 0);
+}
+#contact-heading1{
+  background-color: rgba(0, 0, 0, 0);
+}
+#contact-spoon{
+  background-color: rgba(0, 0, 0, 0);
+}
+#contact-heading2{
+  background-color: rgba(0, 0, 0, 0);
+  color: goldenrod;
+  font-size: 4rem;
+  letter-spacing: 2px;
+}
+#contact-p1, #contact-h3, #contact-btndiv{
+  background-color: rgba(0, 0, 0, 0);
+}
+#contact-p1{
+letter-spacing: 2px;
+font-size: 1.1em;
+}
+#contact-h3{
+  color: goldenrod;
+}
+#contactbtn{
+  width: 20%;
+  height: 40px;
+  background-color: antiquewhite;
+  color: black;
+  font-size: larger;
+  font-weight: 800;
+}
+#contactbtn:hover{
+  background-color: rgb(206, 178, 141);
+}
+
+#findUsImg{
+  width: 80%;
+  height: 500px;
+  background-color: rgba(0, 0, 0, 0);
+}
