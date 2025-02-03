@@ -4,7 +4,7 @@ import './Navbar.css';
 function Navbar() {
   return (
     <section id='navdiv'>
-      <div><img src="src\components\Navbar\logo.png" id='logo' /></div>
+      <div><img src="src\assets\applogo.png" id='logo' /></div>
       
     <div>
         <nav>
