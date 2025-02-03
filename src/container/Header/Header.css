@@ -15,6 +15,9 @@
   font-size: 1.2em;
   font-weight: 600;
 }
+#header-ptag{
+  margin-bottom: 10%;
+}
 #explorebtn:hover{
   background-color: rgb(206, 178, 141);
 }
@@ -29,8 +32,8 @@
 #secondline{
   font-size: 5.4em;
   color: rgb(243, 191, 59);
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: 10%;
+  margin-bottom: 15%;
 }
 #header-spoon{
   width: 50px;
