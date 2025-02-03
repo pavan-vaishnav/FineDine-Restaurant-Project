@@ -13,16 +13,16 @@ function ControlledCarousel() {
   return (
     <Carousel activeIndex={index} onSelect={handleSelect} id="caresol">
       <Carousel.Item>
-        <img src="src\assets\gallery01.png" alt="gallary" className='gallaryimgs'/>
+        <img src="gallery01.png" alt="gallary" className='gallaryimgs'/>
       </Carousel.Item>
       <Carousel.Item>
-        <img src="src\assets\gallery02.png" alt="gallary" className='gallaryimgs'/>
+        <img src="gallery02.png" alt="gallary" className='gallaryimgs'/>
       </Carousel.Item>
       <Carousel.Item>
-        <img src="src\assets\gallery03.png" alt="gallary" className='gallaryimgs'/>
+        <img src="gallery03.png" alt="gallary" className='gallaryimgs'/>
       </Carousel.Item>
       <Carousel.Item>
-        <img src="src\assets\gallery04.png" alt="gallary" className='gallaryimgs'/>
+        <img src="gallery04.png" alt="gallary" className='gallaryimgs'/>
       </Carousel.Item>
       
     </Carousel>

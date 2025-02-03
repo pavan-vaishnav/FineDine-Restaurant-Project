@@ -12,7 +12,7 @@ const SpecialMenu = () => (
   <section id='specialmenu'>
     <div id='smdiv1'>
       <h3 id='h3'>Menu that fits you palatte</h3>
-      <span><img src="src\assets\spoon.png" alt="" id='spoon'/></span>
+      <span><img src="spoon.png" alt="" id='spoon'/></span>
     </div>
     <div id="smdiv2">
       <h1 id='h1'>Today's Special</h1>
@@ -44,7 +44,7 @@ const SpecialMenu = () => (
             ))}
             </div></Col>
 
-            <Col  id='col2'><img src="src\assets\menu.png" alt="menubottle" id='menubottle' /></Col>
+            <Col  id='col2'><img src="menu.png" alt="menubottle" id='menubottle' /></Col>
             
             <Col  id='col3'><div id='menuitem2'>
               <h1 id='menuheader'>Cocktails</h1>

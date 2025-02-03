@@ -20,8 +20,22 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+// import applogo from '../assets/applogo.png';
+// import copy from '../assets/copy.png';
+// import copyright from '../assets/copyright.png';
+// import fb from '../assets/fb.png';
+// import insta from '../assets/insta.jpg';
+// import istore from '../assets/istore.png';
+// import linkedin from '../assets/linkedin.png';
+// import pstore from '../assets/pstore.png';
+// import x from '../assets/x.png';
+// import table1 from '../assets/table1.png';
+// import table2 from '../assets/table2.png';
+// import table3 from '../assets/table3.png';
+// import table4 from '../assets/table4.png';
 
 export default {
+  // copyright, fb, insta, istore, linkedin, pstore, x, table1, table2, table3, table4,
   bg,
   chef,
   G,
@@ -44,4 +58,6 @@ export default {
   sign,
   quote,
   gericht,
+  // applogo,
+  // copy
 };

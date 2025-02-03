@@ -8,7 +8,7 @@ const Gallery = () => (
     <div id='gallary1'>
         <div className='gallary-div1'>
           <h2 id='gallary-heading1'>Instagram</h2>
-          <img src="src/assets/spoon.png" alt="spoon" id='gallary-spoon'/>
+          <img src="spoon.png" alt="spoon" id='gallary-spoon'/>
         </div>
         <div className='gallary-div2'>
           <h1 id='gallary-heading2'>Photo Gallery</h1>

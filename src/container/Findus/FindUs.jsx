@@ -6,7 +6,7 @@ const FindUs = () => (
     <div id="contact-main1" className="contact-main">
       <div id="heading">
         <h3 id='contact-heading1'>Contact</h3>
-        <img src="src/assets/spoon.png" alt="spoon" id='contact-spoon' />
+        <img src="spoon.png" alt="spoon" id='contact-spoon' />
         <h1 id='contact-heading2'>Find Us</h1>
       </div>
       <div id="heading">
@@ -20,7 +20,7 @@ const FindUs = () => (
       </div>
     </div>
     <div id="contact-main2" className="contact-main">
-        <img src="src\assets\findus.png" alt="FindUs" id='findUsImg'/>
+        <img src="findus.png" alt="FindUs" id='findUsImg'/>
     </div>
   </section>
 );

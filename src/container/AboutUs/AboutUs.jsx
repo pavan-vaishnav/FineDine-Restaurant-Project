@@ -7,7 +7,7 @@ const AboutUs = () => (
     <div id="maindiv">
     <div className="about-us-container">
       <h2 className="about-title">About Us</h2>
-      <img src="src\assets\spoon.png" alt="spoon" className="spoon-img" />
+      <img src="spoon.png" alt="spoon" className="spoon-img" />
       <p className="about-text">
         Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Quis Pharetra
         Adipiscing Ultrices Vulputate Posuere Tristique. In Sed Odio Nec Aliquet
@@ -19,13 +19,13 @@ const AboutUs = () => (
        <div id="div2">
        
         {/* <div id='divforknife'> */}
-           <img src="src\assets\knife.png" className='knife'/>
+           <img src="knife.png" className='knife'/>
         {/* </div> */}
-        <img src="src\assets\G.png" id="Gimg" />
+        <img src="G.png" id="Gimg" />
       </div>
       <div className="about-us-container">
       <h2 className="about-title">Our History</h2>
-      <img src="src\assets\spoon.png" alt="spoon" className="spoon-img" />
+      <img src="spoon.png" alt="spoon" className="spoon-img" />
       <p className="about-text about-text2">
         Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Quis Pharetra
         Adipiscing Ultrices Vulputate Posuere Tristique. In Sed Odio Nec Aliquet
