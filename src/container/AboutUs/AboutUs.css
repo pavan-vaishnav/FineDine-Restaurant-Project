@@ -1,5 +1,5 @@
 #aboutus{
-  background-image: url("/src/assets/bg.png");
+  background-image: url("bg.png");
   /* background-image: url("src\assets\G.png"); */
   background-color: rgba(0, 0, 0, 0);
 }
@@ -9,14 +9,11 @@
   justify-content: center;
   height: 800px;
   margin: 5%;
-  background-image: url("src\assets\G.png");
+  /* background-image: url("G.png"); */
   background-color: rgba(0, 0, 0, 0);
 }
 .spoon{
   width: 50px;
-}
-#divforknife{
-  background-color: rgba(240, 248, 255, 0);
 }
 #Gimg{
   position: relative;
@@ -26,11 +23,10 @@
   bottom: 40em;
   z-index: 1;
   background-color: rgba(0, 0, 0, 0);
-  /* background-image: url("src/assets/bg.png");
-  background-color: rgba(0, 0, 0, 0); */
+  background-image: url("bg.png");
 }
 #div2{
-  background-image: url("src/assets/bg.png");
+  background-image: url("bg.png");
   width: 40%;
   height: 700px;
   background-color: rgba(0, 0, 0, 0);
@@ -41,6 +37,7 @@
   left: 30%;
   width: 35%;
   z-index: 2;
+  background-image: url("bg.jpg");
   background-color: rgba(0, 0, 0, 0);
   height: 700px;
 }
